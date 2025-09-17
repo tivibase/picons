@@ -21,9 +21,8 @@ Cada conjunto de picons está optimizado para una visualización clara en difere
 
 ## 🖼️ Especificaciones de los picons
 
-- 📐 **Resolución:** 320 x 180 píxeles  
-- 🎨 **Color:** blanco  
-- 🪟 **Fondo:** transparente (formato PNG recomendado)  
+- 📐 **Resolución:** 160 x 90 píxeles  
+- 🪟 **Fondo:** transparente (formato PNG)  
 
 Estas especificaciones garantizan uniformidad y compatibilidad en distintos dispositivos y aplicaciones de IPTV.
 
